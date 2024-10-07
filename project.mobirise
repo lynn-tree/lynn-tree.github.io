@@ -44,6 +44,7 @@
     "versionFirst": "5.9.18",
     "siteFonts": [],
     "imageResize": true,
+    "publishEditFolder": false,
     "uniqCompNum": 10,
     "versionPublish": "5.9.18"
   },
